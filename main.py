@@ -2,8 +2,10 @@
 ##
 ## The goal of this project is develop an initial and fundamental understanding of machine learning
 ## ....with no machine learning background
-## Idea taken from https://www.edureka.co/blog/snake-game-with-pygame/#install
+## Idea taken from:
+## https://www.edureka.co/blog/snake-game-with-pygame/#install
 ## https://towardsdatascience.com/today-im-going-to-talk-about-a-small-practical-example-of-using-neural-networks-training-one-to-6b2cbd6efdb3
+## https://betterprogramming.pub/10-great-programming-projects-to-improve-your-resume-and-learn-to-program-74b14d3e9e16
 ##
 ##
 
